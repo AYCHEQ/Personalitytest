@@ -2,7 +2,7 @@
   "name": "Personality-Test",
   "version": "0.0.1",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.19.2",
     "babel-jest": "^21.0.2",
     "babel-loader": "^7.1.2",
     "body-parser": "^1.18.1",
